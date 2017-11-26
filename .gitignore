@@ -12,3 +12,9 @@ client/app/**/*.js
 client/app/**/*.map
 client/npm-debug.log
 server/npm-debug.log
+*js
+*js.map
+*.iml
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
